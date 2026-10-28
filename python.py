@@ -1,1 +1,2 @@
-helllo from new file
+Git push practice
+Git push practice by me
